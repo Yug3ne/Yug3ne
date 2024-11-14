@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently leaning full-stack development<br>I'm  heavily invested in Javascript-React  at The moment I am learning Java so as to get into Spring boot and Android development<br>I also have an interest in mobile development with React-Native<br><br>
+I'm currently leaning full-stack development<br>I'm interested in woring with Javascript-React and Python-Django for the backend <br>I also have an interest in mobile development with React-Native<br><br>
 
 
 ## 🌐 Socials:
