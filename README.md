@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Full stack projects**
 
-- 🌱 I’m currently learning **Laravel, Expo, Data Structures and Algorithms, CI/CD**
+- 🌱 I’m currently diving into **Django, Laravel, React Expo, Data Structures and Algorithms, CI/CD**
 
 - 👨‍💻 All of my projects are available at [kipchirchirkoech.co.ke](kipchirchirkoech.co.ke)
 
-- 💬 Ask me about **React, react native, Laravel, Python**
+- 💬 Ask me about **React, react native, Laravel, Python, Django**
 
 - 📫 How to reach me **eugenekoech9@gmail.com**
 
